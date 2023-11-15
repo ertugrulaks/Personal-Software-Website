@@ -2,7 +2,7 @@
 
  Yazılım Şirketlerinin veya Yazılımcıların müşterilerine  kendilerini ve şirketlerini tanıtmak ve müşteri çekmek amacıyla  yapılmış bir web sitesidir.
 
-<h2> Ekran Görüntüsü</h2>
+<h2>Ekran Görüntüsü</h2>
 
- ![](Personal sowfware website.gif)
+ ![] (Personal sowfware website.gif)
 
