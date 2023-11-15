@@ -4,5 +4,7 @@
 
 <h2>Ekran Görüntüsü</h2>
 
- ![] (Personal sowfware website.gif)
+ ![](ekran.gif)
+
+
 
